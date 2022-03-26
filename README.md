@@ -1,5 +1,5 @@
 <div id='header' align='center'>
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200" />
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/1936.gif" width="320" />
   <div id="badges" align='center'>
     <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=awesomelists&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/Onegai-red?style=for-the-badge&logo=concourse&logoColor=white" alt="Youtube Badge"/>
